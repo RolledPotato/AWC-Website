@@ -18,7 +18,9 @@ Built With
 HTML, CSS, JavaScript
 
 Authors
+
 Sneha Shah
 AWC Core Team
+
 
 Thank you for visiting our website and for your support of animal welfare!
