@@ -19,7 +19,8 @@ HTML, CSS, JavaScript
 
 Authors
 
-Sneha Shah
+Sneha Shah (https://www.linkedin.com/in/sneha-shah-iitropar/)
+
 AWC Core Team
 
 
