@@ -10,8 +10,6 @@ Features
 
 Getting Started
   -If you are interested in getting involved with the society, please visit the "Contact US" page for more information.
-  -If you are looking for resources on animal welfare, please visit the "Resources" page.
-  -If you want to stay updated on the society's events and volunteer opportunities, please visit the "Events" page.
 
 Built With
 
