@@ -159,6 +159,26 @@
     });
   }
 
+  
+  /**
+  * FAQ
+  */
+const faqLinks = document.querySelectorAll(".faq-link");
+
+faqLinks.forEach(function (faqLink) {
+  faqLink.addEventListener("click", function () {
+    const answer = faqLink.nextElementSibling;
+    if (answer.style.maxHeight === "80rem") {
+      answer.style.maxHeight = "0";
+    } else {
+      answer.style.maxHeight = "80rem";
+      answer.scrollIntoView({ behavior: "smooth", block: "center", offsetTop: 100 });
+    }
+  });
+});
+
+
+
   /**
    * Testimonials slider
    */
@@ -166,7 +186,7 @@
     speed: 600,
     loop: true,
     autoplay: {
-      delay: 5000,
+      delay: 10000,
       disableOnInteraction: false
     },
     slidesPerView: 'auto',
